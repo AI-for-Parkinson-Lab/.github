@@ -5,4 +5,4 @@ Radboudumc, Radboud University, and Verily.
 
 ## Open-source tools and repositories
 
-All publicly available software, toolboxes, and research repositories are hosted in the **[Digital Biomarkers for Parkinson's Disease](https://github.com/biomarkersParkinson)** GitHub organization.
+All publicly available software, toolboxes, and research repositories are hosted in the **[Digital Biomarkers for Parkinson's disease](https://github.com/biomarkersParkinson)** GitHub organization.
